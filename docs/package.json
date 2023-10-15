@@ -2,7 +2,7 @@
   "name": "sorteo-pelis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://julihabif.github.io/sorteo-pelis.git/page",
+  "homepage": "https://julihabif.github.io/sorteo-pelis.git",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
