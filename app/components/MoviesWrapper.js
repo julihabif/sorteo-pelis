@@ -1,8 +1,10 @@
 'use client'
 import React, { useEffect, useState } from "react";
-import MovieForm from "@/app/components/MovieForm";
+
 import { v4 as uuidv4 } from 'uuid';
-import Movie from "@/app/components/Movie";
+import MovieForm from "./MovieForm";
+import Movie from "./Movie";
+
 
 export const MoviesWrapper = () => {
     const [movies, setMovies] = useState([]);
