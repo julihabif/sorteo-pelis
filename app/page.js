@@ -4,7 +4,7 @@ import {MoviesWrapper} from "./components/MoviesWrapper";
 export default function Home() {
   return (
    <div>
-      <MoviesWrapper/>
+     <MoviesWrapper/>
    </div>
   )
 }
